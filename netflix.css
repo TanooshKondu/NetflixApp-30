@@ -39,9 +39,10 @@ header {
     position: fixed;
     top: 0;
     display: flex;
-    background-color: #141414;
+    background-color: #1414148a;
     width: 100%;
     margin-bottom: 0px;
+    z-index: 99999;
 }
 
 
