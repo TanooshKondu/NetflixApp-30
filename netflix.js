@@ -7,5 +7,3 @@
 //<a href="#"><i class="fab fa-twitter fa-2x logo"></i></a>
 //<a href="#"><i class="fab fa-youtube fa-2x logo"></i></a>
 //</div>
-//<p>Contact US</p>
-//<>Help center</
