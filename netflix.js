@@ -10,5 +10,4 @@
 //<p>Contact US</p>
 //<p>Help center</p>
 //</footer>
-//<script src="netflix.js"></script>
-//</body>
+//<script src="n
