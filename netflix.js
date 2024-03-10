@@ -8,6 +8,4 @@
 //<a href="#"><i class="fab fa-youtube fa-2x logo"></i></a>
 //</div>
 //<p>Contact US</p>
-//<p>Help center</p>
-//</footer>
-//<script src="n
+//<>Help center</
